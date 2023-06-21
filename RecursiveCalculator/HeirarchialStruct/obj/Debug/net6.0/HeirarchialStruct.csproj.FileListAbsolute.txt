@@ -1,0 +1,15 @@
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\bin\Debug\net6.0\HeirarchialStruct.exe
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\bin\Debug\net6.0\HeirarchialStruct.deps.json
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\bin\Debug\net6.0\HeirarchialStruct.runtimeconfig.json
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\bin\Debug\net6.0\HeirarchialStruct.dll
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\bin\Debug\net6.0\HeirarchialStruct.pdb
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\obj\Debug\net6.0\HeirarchialStruct.csproj.AssemblyReference.cache
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\obj\Debug\net6.0\HeirarchialStruct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\obj\Debug\net6.0\HeirarchialStruct.AssemblyInfoInputs.cache
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\obj\Debug\net6.0\HeirarchialStruct.AssemblyInfo.cs
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\obj\Debug\net6.0\HeirarchialStruct.csproj.CoreCompileInputs.cache
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\obj\Debug\net6.0\HeirarchialStruct.dll
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\obj\Debug\net6.0\refint\HeirarchialStruct.dll
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\obj\Debug\net6.0\HeirarchialStruct.pdb
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\obj\Debug\net6.0\HeirarchialStruct.genruntimeconfig.cache
+C:\Users\MDIna\source\repos\RecursiveCalculator\HeirarchialStruct\obj\Debug\net6.0\ref\HeirarchialStruct.dll
