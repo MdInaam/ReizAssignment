@@ -1,2 +1,6 @@
-# ReizAssignment
-Please find 2 Programs. Clock lesser angle calculator and Heirarchial Structure Depth Calculator.
+## ReizAssignment
+Please find 2 folders with the following programs:
+
+-Clock Lesser Angle Calculator 
+
+-Heirarchial Structure Depth Calculator (Recursion).
